@@ -1,1 +1,7 @@
-update file
+{
+  "version": "v1",
+  "variants": [
+    {
+      "name": "MakiUI v1 - Jun",
+      "url": "https://t.me/MakiUI"
+    }
